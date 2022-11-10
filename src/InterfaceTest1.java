@@ -1,6 +1,7 @@
 
 
 
+
 interface pet
 {
     public void getdata();
@@ -21,8 +22,6 @@ class InterfaceTest1 implements pet
         i.getdata();
     }
 }
-
-
 
 
 
