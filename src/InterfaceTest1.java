@@ -1,7 +1,3 @@
-
-
-
-
 interface pet
 {
     public void getdata();
